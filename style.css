@@ -1,0 +1,28 @@
+img{
+    width: 100%;
+    border: 5px solid #092635;
+    margin: 0%;
+}
+
+#box{
+    margin:50px 300px;
+
+}
+html{
+    background-color: #191919;
+}
+
+h1{
+    text-transform: capitalize;
+    color: #CD8D7A;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0%;
+}
+
+p{
+    color: #EAECCC;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+}
